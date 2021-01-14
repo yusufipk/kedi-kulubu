@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kedi-kulubu/static/css/main.e71b4653.chunk.css",
+    "main.js": "/kedi-kulubu/static/js/main.9250182d.chunk.js",
+    "main.js.map": "/kedi-kulubu/static/js/main.9250182d.chunk.js.map",
+    "runtime-main.js": "/kedi-kulubu/static/js/runtime-main.85afb0cf.js",
+    "runtime-main.js.map": "/kedi-kulubu/static/js/runtime-main.85afb0cf.js.map",
+    "static/js/2.e78c1ec7.chunk.js": "/kedi-kulubu/static/js/2.e78c1ec7.chunk.js",
+    "static/js/2.e78c1ec7.chunk.js.map": "/kedi-kulubu/static/js/2.e78c1ec7.chunk.js.map",
+    "static/js/3.9aebff8f.chunk.js": "/kedi-kulubu/static/js/3.9aebff8f.chunk.js",
+    "static/js/3.9aebff8f.chunk.js.map": "/kedi-kulubu/static/js/3.9aebff8f.chunk.js.map",
+    "index.html": "/kedi-kulubu/index.html",
+    "static/css/main.e71b4653.chunk.css.map": "/kedi-kulubu/static/css/main.e71b4653.chunk.css.map",
+    "static/js/2.e78c1ec7.chunk.js.LICENSE.txt": "/kedi-kulubu/static/js/2.e78c1ec7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85afb0cf.js",
+    "static/js/2.e78c1ec7.chunk.js",
+    "static/css/main.e71b4653.chunk.css",
+    "static/js/main.9250182d.chunk.js"
+  ]
+}
