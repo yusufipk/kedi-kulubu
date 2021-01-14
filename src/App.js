@@ -1,5 +1,6 @@
 import "./App.css";
 import { Component } from "react";
+import { CardList } from "./components/card-list/card-list-component";
 
 class App extends Component {
   constructor() {
@@ -12,15 +13,19 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        {this.state.kediler.map((users) => (
-          <h1 key={users.id}>{users.name}</h1>
-        ))}
+        <CardList>
+          {this.state.kediler.map((users) => (
+            <h1 key={users.id}>{users.name}</h1>
+          ))}
+        </CardList>
       </div>
     );
   }
 
   componentDidMount() {
-    fetch("https://jsonplaceholder.typicode.com/users")
+    fetch(
+      "https://raw.githubusercontent.com/yusufipk/kedi-kulubu/master/data/db.json"
+    )
       .then((response) => response.json())
       .then((users) => this.setState({ kediler: users }));
   }
