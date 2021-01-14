@@ -19,6 +19,7 @@ class App extends Component {
     );
     return (
       <div className="App">
+        <h1>Kedi Kulübü Üyeleri</h1>
         <Search placeholder="Kediyi ara" handleChange={this.handleChange} />
         <CardList kediler={kediFiltrele} />
       </div>
