@@ -13,10 +13,14 @@ class App extends Component {
   }
 
   render() {
+    const { kediler, searchField } = this.state;
+    const kediFiltrele = kediler.filter((kedi) =>
+      kedi.name.toLowerCase().includes(searchField.toLowerCase())
+    );
     return (
       <div className="App">
         <Search placeholder="Kediyi ara" handleChange={this.handleChange} />
-        <CardList kediler={this.state.kediler} />
+        <CardList kediler={kediFiltrele} />
       </div>
     );
   }
