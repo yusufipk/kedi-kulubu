@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Mia",
+    "email": "mia@kedi.biz",
+    "catch-phrase": "Miyav"
+  },
+  {
+    "id": 2,
+    "name": "Lila",
+    "email": "lila@kedi.com",
+    "catch-phrase": "Miyaaaav"
+  },
+  {
+    "id": 3,
+    "name": "Pati",
+    "email": "pati@kedi.kedi",
+    "catch-phrase": "Kafamı kaşı insan!"
+  },
+  {
+    "id": 4,
+    "name": "Gece",
+    "email": "gece@kedi.tv",
+    "catch-phrase": "Zzzzzz"
+  },
+  {
+    "id": 5,
+    "name": "Köfte",
+    "email": "köfte@kedi.uk",
+    "catch-phrase": "Miyav"
+  },
+  {
+    "id": 6,
+    "name": "Bal",
+    "email": "bal@kedi.us",
+    "catch-phrase": "Miyavv"
+  },
+  {
+    "id": 7,
+    "name": "Nina",
+    "email": "kara@kedi.tr",
+    "catch-phrase": "Miyav"
+  },
+  {
+    "id": 8,
+    "name": "Nazlı",
+    "email": "nazlı@kedi.biz",
+    "catch-phrase": "Miyav"
+  },
+  {
+    "id": 9,
+    "name": "Cadı",
+    "email": "cadı@kedi.biz",
+    "catch-phrase": "Miyav"
+  },
+  {
+    "id": 10,
+    "name": "Işık",
+    "email": "yagamilight@kedi.biz",
+    "catch-phrase": "Miyav"
+  }
+]
